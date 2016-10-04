@@ -1,0 +1,136 @@
+[
+  {
+    "id": 0,
+    "name": "表现形式",
+    "type": -1,
+    "_parentId": 0
+  },
+  {
+    "id": 65,
+    "name": "文档类知识",
+    "type": 0,
+    "time": "/Date(1475216825000)/",
+    "count": 3,
+    "_parentId": 0
+  },
+  {
+    "id": 66,
+    "name": "过程类知识",
+    "type": 0,
+    "time": "/Date(1475224296000)/",
+    "count": 2,
+    "_parentId": 0
+  },
+  {
+    "id": 67,
+    "name": "技术文件",
+    "type": 1,
+    "time": "/Date(1475216909000)/",
+    "count": 3,
+    "_parentId": 65
+  },
+  {
+    "id": 68,
+    "name": "过程程序",
+    "type": 1,
+    "time": "/Date(1475217002000)/",
+    "count": 2,
+    "_parentId": 66
+  },
+  {
+    "id": 69,
+    "name": "标准化文件",
+    "type": 1,
+    "time": "/Date(1475216932000)/",
+    "count": 0,
+    "_parentId": 65
+  },
+  {
+    "id": 70,
+    "name": "图纸",
+    "type": 1,
+    "time": "/Date(1475216941000)/",
+    "count": 0,
+    "_parentId": 65
+  },
+  {
+    "id": 71,
+    "name": "三维模型",
+    "type": 1,
+    "time": "/Date(1475216959000)/",
+    "count": 0,
+    "_parentId": 65
+  },
+  {
+    "id": 72,
+    "name": "过程分析结果",
+    "type": 1,
+    "time": "/Date(1475223318000)/",
+    "count": 0,
+    "_parentId": 66
+  },
+  {
+    "id": 73,
+    "name": "数据类知识",
+    "type": 0,
+    "time": "/Date(1475217053000)/",
+    "count": 0,
+    "_parentId": 0
+  },
+  {
+    "id": 74,
+    "name": "经验类知识",
+    "type": 0,
+    "time": "/Date(1475217070000)/",
+    "count": 4,
+    "_parentId": 0
+  },
+  {
+    "id": 85,
+    "name": "原理图",
+    "type": 2,
+    "time": "/Date(1475223234000)/",
+    "count": 0,
+    "_parentId": 70
+  },
+  {
+    "id": 86,
+    "name": "零件图",
+    "type": 2,
+    "time": "/Date(1475223250000)/",
+    "count": 0,
+    "_parentId": 70
+  },
+  {
+    "id": 87,
+    "name": "装配图",
+    "type": 2,
+    "time": "/Date(1475223263000)/",
+    "count": 0,
+    "_parentId": 70
+  },
+  {
+    "id": 88,
+    "name": "零件模型",
+    "type": 2,
+    "time": "/Date(1475223277000)/",
+    "count": 0,
+    "_parentId": 71
+  },
+  {
+    "id": 89,
+    "name": "装配模型",
+    "type": 2,
+    "time": "/Date(1475223292000)/",
+    "count": 0,
+    "_parentId": 71
+  },
+  {
+    "id": 90,
+    "name": "过程软件",
+    "type": 1,
+    "time": "/Date(1475223336000)/",
+    "count": 0,
+    "_parentId": 66
+  }
+]
